@@ -6,10 +6,10 @@
 
 ### 🚀 About Me
 
-🎓 Mscit | 💻 Data Scientist  
-📚 Currently doing a Data Science Course
-🧠 Passionate about: Data Scientist, App Development
-📊 Tools: Power BI, Flutter, Python, SQL...
+- 🎓 Mscit | 💻 Data Scientist  
+- 📚 Currently doing a Data Science Course
+- 🧠 Passionate about: Data Scientist, App Development
+- 📊 Tools: Power BI, Flutter, Python, SQL...
 
 ---
 
