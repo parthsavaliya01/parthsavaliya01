@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Hey there! 👋 I'm Parth Savaliya</h1>
 
-<!--
-**parthsavaliya01/parthsavaliya01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://your-image-link.com/banner.png" alt="Banner" width="100%"/>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+🎓 Mscit | 💻 Data Scientist  
+📚 Currently doing a Data Science Course
+🧠 Passionate about: Data Scientist, App Development
+🛠️ Building: [Project name or field]  
+📊 Tools: Power BI, Flutter, Python, SQL...
+
+---
+
+### 🛠️ Tech Stack
+
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
+![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+
+---
+
+### 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=web&logoColor=white)](https://yourportfolio.com)
+
+---
+
+🔗 Feel free to explore my projects and repositories below 👇
