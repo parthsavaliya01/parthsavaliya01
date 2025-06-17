@@ -1,7 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm Parth Savaliya</h1>
 
-<img src="https://your-image-link.com/banner.png" alt="Banner" width="100%"/>
-
 ---
 
 ### 🚀 About Me
