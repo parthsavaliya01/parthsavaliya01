@@ -27,8 +27,8 @@
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=web&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link](https://www.linkedin.com/in/parth-savaliya-b416652a7/))
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=web&logoColor=white)]([https://yourportfolio.com](https://cheery-entremet-cc466b.netlify.app/))
 
 ---
 
