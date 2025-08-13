@@ -1,7 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm Parth Savaliya</h1>
 
-![Header](https://unite.un.org/sites/unite.un.org/files/styles/panopoly_image_original/public/pages/analytics-banner_1.png?itok=ZMQjool9)
-
 ---
 
 ### 🚀 About Me
