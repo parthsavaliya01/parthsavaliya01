@@ -1,37 +1,107 @@
-<h1 align="center">Hey there! 👋 I'm Parth Savaliya</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=61DAFB&center=true&vCenter=true&width=900&height=100&lines=Hi%2C+I'm+Parth+Savaliya+👋;AI+%26+ML+Engineer;IMSc+Student+at+GLS+University;Building+Intelligent+Solutions+with+AI!">
+</p>
+
+**`AI/ML Engineer | IMSc Student | Data Science & Machine Learning Enthusiast`**
+
+Welcome to my GitHub — where I explore Artificial Intelligence, Machine Learning, Data Science, and Full-Stack Development 🚀.
+
+I am currently pursuing **IMSc at GLS University** and actively building projects in AI/ML, Computer Vision, Generative AI, and Data Analytics.
+
+### 🔭 What I'm Working On
+
+* Building AI-powered applications using Python, FastAPI, LangChain, and Streamlit.
+* Developing Machine Learning and Deep Learning projects for real-world problem solving.
+* Working on Computer Vision applications using YOLO and OpenCV.
+* Exploring Generative AI, RAG Systems, Vector Databases, and LLM-powered applications.
+* Preparing for AI/ML Engineer and Data Science roles.
+
+## ✨ Featured Projects
+
+* 🤖 **News Research Chatbot** – LangChain-based RAG application using FAISS, MistralAI, and Streamlit for intelligent news analysis.
+* 🚕 **NYC Taxi Trip Duration Prediction** – End-to-end Machine Learning pipeline with feature engineering, model training, and deployment.
+* 👁️ **Employee Monitoring System** – Real-time person detection, tracking, and counting using YOLOv8, OpenCV, FastAPI, and WebSockets.
+* 🔢 **Digit Classification System** – CNN-based image classification using TensorFlow and FastAPI deployment.
+* 📊 **Data Analytics Projects** – Tableau dashboards and statistical analysis for business insights.
+
+## 🌍 Location & Contact
+
+📍 **Based in**: Surat, Gujarat, India
+
+🔗 **LinkedIn**: Your LinkedIn Profile
+📧 **Email**: [your-email@example.com](mailto:your-email@example.com)
+🌐 **Portfolio**: Coming Soon
+
+## 🧠 Currently Learning
+
+* 🤖 Advanced Machine Learning & Deep Learning
+* 🧠 Large Language Models (LLMs)
+* 🔍 Retrieval-Augmented Generation (RAG)
+* ☁️ Cloud Computing & MLOps
+* 📈 Data Structures & Algorithms for Placements
+
+## 🧰 Languages and Technologies
+
+### Programming Languages
+
+* Python
+* Java
+* SQL
+* JavaScript
+
+### AI / ML
+
+* Scikit-Learn
+* TensorFlow
+* Pandas
+* NumPy
+* Matplotlib
+* OpenCV
+* YOLO
+
+### Generative AI
+
+* LangChain
+* FAISS
+* Vector Databases
+* RAG Applications
+* MistralAI
+
+### Backend Development
+
+* FastAPI
+* Flask
+* REST APIs
+
+### Frontend Development
+
+* Streamlit
+* HTML
+* CSS
+
+### Databases
+
+* MySQL
+* SQLite
+
+### Tools & Platforms
+
+* Git & GitHub
+* Google Colab
+* Jupyter Notebook
+* Tableau
+* VS Code
 
 ---
 
-### 🚀 About Me
+### 📈 Goals for 2026
 
-- 🎓 Mscit | 💻 Data Scientist  
-- 📚 Currently doing a Data Science Course
-- 🧠 Passionate about: Data Scientist, App Development
-- 📊 Tools: Power BI, Flutter, Python, SQL...
-
----
-
-### 🛠️ Tech Stack
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
+* Secure an AI/ML Engineer role.
+* Build production-ready AI applications.
+* Master Deep Learning and Generative AI.
+* Contribute to Open Source projects.
+* Strengthen DSA and System Design skills.
 
 ---
 
-### 📫 Connect with Me
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth-savaliya-b416652a7/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=portfolio&logoColor=white)](https://cheery-entremet-cc466b.netlify.app/)
-
----
-
-🔗 Feel free to explore my projects and repositories below 👇
+⭐ *Always learning, always building, and always curious about solving problems with AI.*
