@@ -30,6 +30,7 @@ I am currently pursuing **IMSc at GLS University** and actively building project
 
 - 🔗 **LinkedIn**: https://www.linkedin.com/in/parth-savaliya-b416652a7/
 - 📧 **Email**: [parthsavaliya511@gmail.com](mailto:your-email@example.com)
+- 📄 **Resume**: [View Resume](https://drive.google.com/file/d/1w4k0NzcyXDy_OOjZxWF6thZl9F489qgj/view?usp=drive_link)
 - 🌐 **Portfolio**: Coming Soon
 
 ## 🧠 Currently Learning
