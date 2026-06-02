@@ -28,8 +28,8 @@ I am currently pursuing **IMSc at GLS University** and actively building project
 
 📍 **Based in**: Surat, Gujarat, India
 
-🔗 **LinkedIn**: Your LinkedIn Profile
-📧 **Email**: [your-email@example.com](mailto:your-email@example.com)
+🔗 **LinkedIn**: https://www.linkedin.com/in/parth-savaliya-b416652a7/
+📧 **Email**: [parthsavaliya511@gmail.com](mailto:your-email@example.com)
 🌐 **Portfolio**: Coming Soon
 
 ## 🧠 Currently Learning
@@ -62,6 +62,7 @@ I am currently pursuing **IMSc at GLS University** and actively building project
 ### Generative AI
 
 * LangChain
+* LangGraph
 * FAISS
 * Vector Databases
 * RAG Applications
@@ -96,8 +97,6 @@ I am currently pursuing **IMSc at GLS University** and actively building project
 
 ### 📈 Goals for 2026
 
-* Secure an AI/ML Engineer role.
-* Build production-ready AI applications.
 * Master Deep Learning and Generative AI.
 * Contribute to Open Source projects.
 * Strengthen DSA and System Design skills.
