@@ -26,11 +26,11 @@ I am currently pursuing **IMSc at GLS University** and actively building project
 
 ## 🌍 Location & Contact
 
-📍 **Based in**: Surat, Gujarat, India
+- 📍 **Based in**: Ahemdabaad / Surat, Gujarat, India
 
-🔗 **LinkedIn**: https://www.linkedin.com/in/parth-savaliya-b416652a7/
-📧 **Email**: [parthsavaliya511@gmail.com](mailto:your-email@example.com)
-🌐 **Portfolio**: Coming Soon
+- 🔗 **LinkedIn**: https://www.linkedin.com/in/parth-savaliya-b416652a7/
+- 📧 **Email**: [parthsavaliya511@gmail.com](mailto:your-email@example.com)
+- 🌐 **Portfolio**: Coming Soon
 
 ## 🧠 Currently Learning
 
