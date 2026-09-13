@@ -39,8 +39,6 @@ I build production machine learning systems — from raw data and exploratory an
 * 🎥 **Real-Time Face Recognition Attendance (CCTV-based)** – 8-stage biometric pipeline: RTSP ingestion → face detection/alignment → anti-spoofing → ArcFace embeddings → FAISS matching → PostgreSQL logging with a live FastAPI/WebSockets dashboard.
 * 🧍 **[Real-Time Employee Tracking & Occupancy Analytics](https://github.com/parthsavaliya01/pearson_tracker_pro)** – YOLOv8 + ByteTrack for persistent multi-camera tracking, streamed live via WebSockets into a Streamlit occupancy dashboard.
 * 💬 **[WhatsApp AI Agent with Tool Calling](https://github.com/parthsavaliya01/Watsaap---MultiTask---Agent)** – Autonomous agent on Node.js/Express using the WhatsApp Cloud API and Anthropic Claude's tool-calling to trigger emails, DB queries, and external APIs from natural conversation.
-* 🚕 **NYC Taxi Trip Duration Prediction** – End-to-end ML pipeline with feature engineering, model benchmarking, and deployment.
-* 🔢 **Digit Classification System** – CNN-based image classification with TensorFlow, served via FastAPI.
 
 🔗 **[View all 13+ projects →](https://parth-ai-ml-portfolio.vercel.app/projects)**
 
